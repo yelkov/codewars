@@ -4,5 +4,5 @@ Yelko Veiga Quintas @yelkov
 
 ### cuenta de codewars
 <p>
-<a href="https://www.codewars.com/users/stonarini"><img src="https://www.codewars.com/users/yelkov/badges/large"/></a>
+<a href="https://www.codewars.com/users/yelkov"><img src="https://www.codewars.com/users/yelkov/badges/large"/></a>
 </p>
